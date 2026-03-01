@@ -1,0 +1,11 @@
+{
+    "name": "extra-properties",
+    "version": "0.0.1",
+    "title": "Extra Properties",
+    "author": "exfret",
+    "factorio_version": "2.0",
+    "description": "Adds the ability to use some new, creatively designed prototype properties into the game.",
+    "dependencies": [
+        "base >= 2.0.0"
+    ]
+}
